@@ -40,10 +40,6 @@ This project showcases creativity in frontend development while blending technol
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **React.js**
-- **Vite**
-- **Tailwind CSS**
-- **Framer Motion** (for animations)
 
 ---
 
