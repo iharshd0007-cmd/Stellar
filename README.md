@@ -43,6 +43,11 @@ This project showcases creativity in frontend development while blending technol
 
 ---
 
+## Deployment 
+- by Vercel
+
+---
+
 ## 📂 Project Structure
 
 ```bash
